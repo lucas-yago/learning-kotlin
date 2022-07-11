@@ -4,7 +4,6 @@ class ReforcandoAprendizado {
 
     @Test
     fun testePortaria() {
-
         Assertions.assertAll(
             { Assertions.assertEquals("Welcome.", portaria(20, "COMUM", "XT072022comum")) },
             { Assertions.assertEquals("Welcome.", portaria(20, "PREMIUM", "XL072022premium")) },
