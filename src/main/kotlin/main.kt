@@ -32,7 +32,3 @@ fun maiorDeIdade(idade: Int):Boolean{
         return true
     }
 }
-
-//fun main() {
-//    abc()
-//}
