@@ -25,7 +25,7 @@ class Animal(val especie: String) {
 
 }
 
-class Funcionario(val nome: String) {
+class Funcionarioo(val nome: String) {
     var tipoContrato: String = ""
 
     init {
